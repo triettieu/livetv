@@ -69,3 +69,103 @@ rtmp://119.18.186.116/live//vov2
 rtmp://119.18.186.116/live//vov3
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="8",VTV Huế
 rtmp://m22.megafun.vn/hctv/vstv024
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 1.png" tvg-name="153",HaNoiTV 1
+rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL2.png" tvg-name="154",THVL2
+rtmp://123.30.108.72/live//thvl2
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DRT.png" tvg-name="205",DRT1
+rtmp://yqyydhnc.cdnviet.com/mnrrnlm/drt1
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiPhongTV.png" tvg-name="162",HaiPhongTV
+rtmp://203.162.238.46/live//livestream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HauGiangTV.png" tvg-name="167",HauGiangTV
+rtmp://115.78.160.29/live//thhg
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangNinhTV.png" tvg-name="179",QuangNinhTV 1
+rtmp://m35.megafun.vn/hctv/vstv020?token=noting&time=null
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangNinhTV.png" tvg-name="179",QuangNinhTV 3
+rtmp://m35.megafun.vn:1935/hctv/vstv021?token=noting&time=null
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LamDongTV.png" tvg-name="180",LamDongTV
+rtmp://m22.megafun.vn/hctv/vstv022
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BenTreTV.png" tvg-name="252",BenTreTV
+rtmp://113.163.94.245/live//Stream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaTinhTV.png" tvg-name="250",HaTinhTV
+http://hatinhtv.vn/liveevent.m3u8
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\SCI.png" tvg-name="223",GiaLaiTV
+rtmp://222.255.169.132/live//livestream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
+rtmp://113.161.212.25/live//atv1
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 2.png" tvg-name="183",BinhPhuocTV 2
+rtmp://113.161.180.136/live//thbp2.tv
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhThuanTV.png" tvg-name="184",BinhThuanTV
+mms://123.30.108.114/BTVTruyenhinh
+#EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
+http://123.30.239.20/vtv6.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="198",BT Sport 1
+rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
+rtmp://93.174.95.125:1935/edge/_definst_/z3ua1ed00znttfp
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\fox soccer.png" tvg-name="89",Fox Soccer Plus
+rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="90",ESPN
+rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png",ESPN 2
+rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
+rtmp://m22.megafun.vn/hctv/vstv018
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
+http://83.170.111.147:1935/liveStream/hai_1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
+rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream
+#EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
+rtmp://123.30.134.108/live/nctlive
+#EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
+http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
+rtmp://14.23.164.226:1935/ss1live/cctvnews-2
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_eng_high
+#EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
+rtmp://live.vnanet.vn/Live//DRC
+#EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
+rtmp://119.18.186.116/live//vtc111_h
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png" tvg-name="267",NHK Vietnam
+mms://wm.nhk.or.jp/rj/on_demand/wma/vietnamese.wma
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png" tvg-name="266",RFI Vietnam
+http://95.81.155.3/2584/rfi_en_vietnamien/rfivietnamien.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="268",VOV GT HN
+rtmp://vov.radiovietnam.vn/live/vovgthn.stream
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="269",VOV GT TP.HCM
+rtmp://vov.radiovietnam.vn/live/vovgthcm.stream
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="263",VOV1
+rtmp://vov.radiovietnam.vn/live/vov1.stream
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="264",VOV2
+rtmp://vov.radiovietnam.vn/live/vov2.stream
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="265",VOV3
+rtmp://vov.radiovietnam.vn/live/vov3.stream
+#EXTINF:-1,TV ESCOLA
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="TV Brasil" group-title="TV Aberta",TV BRASIL
+mms://tv-coder.unifenas.br/aovivo
+#EXTINF:-1 tvg-id="Record News" tvg-logo="Record News" group-title="Jornalismo",RECORD NEWS
+rtmp://a1.fabricahost.com.br:1935/redemercosul/redemercosul.flv
+#EXTINF:-1 tvg-id="EPG" tvg-logo="jpfm" group-title="Jovem" radio=true,Jovempan FM - Londrina
+http://rtmp.cdn.upx.net.br:80/78f2/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="massafm" tvg-logo="massafm" group-title="Eclética" radio=true,Massa FM - Londrina
+http://74.55.79.34:8002/;stream.mp3
+#EXTINF:-1 tvg-id="mixfm" tvg-logo="mixfm" group-title="Jovem" radio=true,Mix FM - Londrina
+http://a4.fabricahost.com.br:1935/mixlondrina/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Escola" tvg-logo="TV Escola" group-title="Educativo",TV ESCOLA
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="TV Brasil" group-title="TV Aberta",TV BRASIL
+mms://tv-coder.unifenas.br/aovivo
+#EXTINF:-1 tvg-id="Rede TV" tvg-logo="Rede TV" group-title="TV Aberta",REDE TV
+http://redetv.ios.internapcdn.net/REDETV/live_1/aovivo/aovivo.m3u8
+#EXTINF:0,139 Sky News Headlines
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+#EXTINF:0,144 US  TWit
+http://bglive-a.bitgravity.com/twit/live/high
