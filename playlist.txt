@@ -109,8 +109,6 @@ rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
 rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png",ESPN 2
 rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
-rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
