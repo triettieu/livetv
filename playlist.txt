@@ -90,6 +90,26 @@ rtmp://119.18.186.116/live//vtc111_h
 rtmp://117.103.224.31/live/livestream
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC14.png" tvg-name="43",VTC14
 rtmp://117.103.224.31/live//livestream?token=nothing&time=null
+#EXTINF:-1,VTC 1
+rtmp://119.18.186.116/live//vtc11
+#EXTINF:-1,VTC 2
+rtmp://119.18.186.116/live//vtc21_h
+#EXTINF:-1,VTC 4
+http://203.162.235.26/lives/origin01/vtc4sd.isml/vtc4sd-1096k.m3u8
+#EXTINF:-1,VTC 7 (Today TV)
+rtmp://m22.megafun.vn/hctv/vstv003
+#EXTINF:-1,VTC 9
+rtmp://m31.megafun.vn/hctv/vstv010
+#EXTINF:-1,VTC 10
+rtmp://119.18.186.116/live//vtc101_h
+#EXTINF:-1,VTC 11 (kids TV)
+rtmp://119.18.186.116/live//vtc111_h
+#EXTINF:-1,VTC 13 (ITV)    
+rtmp://live.kenhitv.vn/liveweb/itv_web_500k.stream
+#EXTINF:-1,VTC 14          
+rtmp://117.103.224.31/live/livestream
+#EXTINF:-1,VTC 14 HD       
+rtmp://119.18.186.116/live//vtc14_h
 
 #VTVcab
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
@@ -104,6 +124,16 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
 
 #HTV
+#EXTINF:-1,HTV 2
+rtmp://m22.megafun.vn/hctv/vstv001
+#EXTINF:-1,HTV 7 SD
+rtmp://119.18.186.116/live//htv7
+#EXTINF:-1,HTV 7 HD
+rtmp://119.18.186.116/live//htv7_h
+#EXTINF:-1,HTV 9 SD
+rtmp://119.18.186.116/live//htv91
+#EXTINF:-1,HTV 9 HD
+rtmp://119.18.186.116/live//htv91_h
 #EXTINF:-1,HTV9 
 rtmp://m22.megafun.vn/hctv/vstv009
 
