@@ -44,6 +44,8 @@ rtmp://113.161.204.168/livepkgr/livestream1
 rtmp://yqyydhnc.cdnviet.com/mnrrnlm/drt1
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="11",VTV Đà Nẵng
 rtmp://222.255.167.149/live/livestream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\SCI.png" tvg-name="223",GiaLaiTV
+rtmp://222.255.169.132/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiPhongTV.png" tvg-name="162",HaiPhongTV
 rtmp://203.162.238.46/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HauGiangTV.png" tvg-name="167",HauGiangTV
@@ -70,8 +72,6 @@ rtmp://m35.megafun.vn/hctv/vstv020?token=noting&time=null
 rtmp://m35.megafun.vn:1935/hctv/vstv021?token=noting&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LamDongTV.png" tvg-name="180",LamDongTV
 rtmp://m22.megafun.vn/hctv/vstv022
-#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\SCI.png" tvg-name="223",GiaLaiTV
-rtmp://222.255.169.132/live//livestream
 
 #VTC
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
@@ -114,10 +114,6 @@ rtmp://119.18.186.116/live//vtc14_h
 #VTVcab
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
-http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
-http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10
@@ -138,8 +134,6 @@ rtmp://119.18.186.116/live//htv91_h
 rtmp://m22.megafun.vn/hctv/vstv009
 
 #Hanoi
-#EXTINF:-1,HaNoi 1
-rtmp://m37.megafun.vn/hctv/vstv011
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 1.png" tvg-name="153",HaNoiTV 1
 rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
 #EXTINF:-1,HaNoi 2 
