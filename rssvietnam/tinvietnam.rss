@@ -235,8 +235,8 @@ ret;
   </item_template>
 
 <channel>
-	<title>World</title>
-	<link>./world.rss</link>
+	<title>Việt Nam</title>
+	<link>./tinvietnam.rss</link>
         <media:thumbnail url="image/rss1.png"  />
 	<menu>Video Podcast World</menu>
 
@@ -244,7 +244,7 @@ ret;
 <item>
 <focusIcon>http://dmp.realtek.com/VideoPodcast2/image/world_icons/htb_focus.fsp</focusIcon>
 <unfocusIcon>http://dmp.realtek.com/VideoPodcast2/image/world_icons/htb_unfocus.fsp</unfocusIcon>
-<title>�?ТВ ново�?ти</title>
+<title>Ð?Ð¢Ð’ Ð½Ð¾Ð²Ð¾Ñ?Ñ‚Ð¸</title>
 <url>http://feeds.feedburner.com/ntv/</url>
 </item>
 -->
@@ -342,7 +342,7 @@ ret;
 <item>
 <focusIcon>http://dmp.realtek.com/VideoPodcast/image/pulse.gif</focusIcon>
 <unfocusIcon>http://dmp.realtek.com/VideoPodcast/image/pulse_unfocus.gif</unfocusIcon>
-<title>Admiral Markets: Пуль�? � ынка</title>
+<title>Admiral Markets: ÐŸÑƒÐ»ÑŒÑ? Ð Ñ‹Ð½ÐºÐ°</title>
 <url>http://am.rpod.ru/rss.xml</url>
 </item>
 
@@ -474,7 +474,7 @@ youtube feed not xml feed
 <item>
 <focusIcon>http://dmp.realtek.com/VideoPodcast2/image/world_icons/5748.jpg</focusIcon>
 <unfocusIcon>http://dmp.realtek.com/VideoPodcast2/image/world_icons/5748.jpg</unfocusIcon>
-<title>TA�lA�Zapping</title>
+<title>TA©lA©Zapping</title>
 <url>http://www.lemonde.fr/podcast-tele-zapping2.xml</url>
 </item>
 
